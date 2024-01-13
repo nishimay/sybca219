@@ -10,5 +10,9 @@ public class assignment {
 		sum=n1+n2;
 
 	}
+	void sub() {
+		int n1=9,n2=5,sub;
+		sub=n1-n2;
+	}
 
 }
