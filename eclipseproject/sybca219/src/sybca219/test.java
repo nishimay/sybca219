@@ -7,6 +7,10 @@ public class test {
 
 		
 		System.out.println("Hello world ");
+	
+	
 	}
-
+	void display() {
+		System.out.println("hello branch");
+	}
 }
