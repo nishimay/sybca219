@@ -6,7 +6,7 @@ public class assignment {
 		// TODO Auto-generated method stub
 		
 		int n1=9,n2=5,sum;
-		System.out.println("program to add 2 nos");
+		System.out.println("program  to add 2 nos");
 		sum=n1+n2;
 
 	}
